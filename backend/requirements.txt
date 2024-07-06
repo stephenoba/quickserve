@@ -1,3 +1,5 @@
 # backend/requirements.txt
 Django>=3.2,<=4.2
 psycopg2-binary>=2.8,<3.0
+djangorestframework
+django-cors-headers
